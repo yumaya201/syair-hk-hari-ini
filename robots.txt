@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syair-hk-hari-ini.herokuapp.com/host-https-mbahtogel.org/sitemap.xml
